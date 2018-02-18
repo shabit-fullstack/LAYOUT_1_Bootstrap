@@ -1,0 +1,37 @@
+.logo{
+    min-height: 100px;
+    margin-top: 20px;
+
+
+}
+.nav{
+    min-height: 100px;
+    margin-top: 20px;
+}
+.sidebar_item{
+    min-height: 150px;
+    margin-top: 10px;
+    
+
+}
+.common{
+    border: 1px solid green;
+    margin-top: 30px;
+}
+
+.slider,.caption{
+    min-height: 150px;
+    
+}
+.data{
+    min-height: 80px;
+}
+.data_two{
+    min-height: 100px;
+}
+.add{
+    min-height: 108px;
+}
+.copyright{
+    min-height: 100px;
+}
